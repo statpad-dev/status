@@ -59,18 +59,16 @@
     "icon": "https://statpad.dev/favicon.svg",
     "slug": "rest-api",
     "status": "up",
-    "uptime": "11.02%",
-    "uptimeDay": "11.02%",
-    "uptimeWeek": "11.02%",
-    "uptimeMonth": "11.02%",
-    "uptimeYear": "11.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 333,
     "timeWeek": 333,
     "timeMonth": 333,
     "timeYear": 333,
-    "dailyMinutesDown": {
-      "2026-11-19": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
